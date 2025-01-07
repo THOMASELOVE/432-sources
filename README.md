@@ -6,7 +6,7 @@ This is a repository of things I may use or refer to during the semester. If you
 
 Some items are **password-protected**, which if you click them will only let you download them from Github, and then open with a password on your own machine. The password is revealed in the first class session.
 
-All of these items will be linked through [Class READMEs](https://github.com/THOMASELOVE/432-classes-2024), as well, as they become useful to us.
+All of these items will be linked through [Class READMEs](https://github.com/THOMASELOVE/432-classes-2025), as well, as they become useful to us.
 
 ## Course Notes
 
