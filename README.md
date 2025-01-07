@@ -10,8 +10,8 @@ All of these items will be linked through [Class READMEs](https://github.com/THO
 
 ## Course Notes
 
-- The 431 notes are [here](https://thomaselove.github.io/431-notes/) and will remain there until 2024-06-01.
-- The 432 notes are [here](https://thomaselove.github.io/432-notes/) and will remain there until 2024-06-01.
+- The 431 notes are [here](https://thomaselove.github.io/431-book/) and will remain there until 2025-06-01.
+- The 432 notes are [here](https://thomaselove.github.io/432-notes/) and will remain there until 2025-06-01.
 
 ## The Books We've Read in 431 or Will Read in 432 include:
 
