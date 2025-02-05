@@ -31,8 +31,8 @@ All of these items will be linked through [Class READMEs](https://github.com/THO
 
 ### On Statistics and Modeling
 
-1. Frank E. Harrell and Chris Slaughter [Biostatistics for Biomedical Research Notes](http://hbiostat.org/doc/bbr.pdf) (pdf) - also see the YouTube course above.
-2. Frank E. Harrell [Regression Modeling Strategies](https://github.com/THOMASELOVE/432-2022/blob/main/references/pdf/Harrell_Regression_Modeling_Strategies_2015_2e_protected.pdf), 2nd Edition, 2015.
+1. Frank E. Harrell and Chris Slaughter [Biostatistics for Biomedical Research Notes](http://hbiostat.org/doc/bbr.pdf) (pdf) - also see the YouTube course above. See updates at [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/).
+2. Frank E. Harrell [Regression Modeling Strategies](https://github.com/THOMASELOVE/432-2022/blob/main/references/pdf/Harrell_Regression_Modeling_Strategies_2015_2e_protected.pdf), 2nd Edition, 2015. See updates at [Regression Modeling Strategies](https://hbiostat.org/rmsc/).
 3. Max Kuhn and Julia Silge [Tidy Modeling with R](https://www.tmwr.org/)
 4. Paul Roback and Julie Legler [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
 5. A Solomon Kurz [Statistical rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/content/3890/)
