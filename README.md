@@ -6,7 +6,7 @@ This is a repository of things I may use or refer to during the semester. If you
 
 Some items are **password-protected**, which if you click them will only let you download them from Github, and then open with a password on your own machine. The password is revealed in the first class session.
 
-All of these items will be linked through [Class READMEs](https://github.com/THOMASELOVE/432-classes-2025), as well, as they become useful to us.
+All of these items will be linked through [Class READMEs](https://github.com/THOMASELOVE/432-classes-2026), as well, as they become useful to us.
 
 ## Course Notes
 
@@ -23,7 +23,7 @@ All of these items will be linked through [Class READMEs](https://github.com/THO
 
 1. Frank Harrell's [Biostatistics for Biomedical Research (BBR) Course](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos) includes a series of lectures on many of the topics we'll be discussing in 432, in addition to several late-breaking items. Details on the course are available [here](https://hbiostat.org/bbr/) and the notes are linked in the Statistics and Modeling books below.
 2. Richard McElreath [Statistical Rethinking (Winter 2023)](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) lecture series is the best introduction to Bayesian ideas and methods available. 
-    - Read more about the course at https://github.com/rmcelreath/stat_rethinking_2023.
+    - Read more about the course at https://github.com/rmcelreath/stat_rethinking_2023. There is a new version for 2026.
     - If you want to just spend two hours rather than dive in to the full thing, Richard's lecture [Bayesian Inference is Just Counting](https://www.youtube.com/watch?v=_NEMHM1wDfI) is great, too.
     - Richard's book [Statistical Rethinking (2nd edition)](https://xcelab.net/rm/statistical-rethinking/) is available to you through [the CWRU library system](https://case.edu/library/) as an ebook. See also the freely available book by Kurz, below.
 
