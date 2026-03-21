@@ -133,3 +133,8 @@ Here are some suggestions:
 ## A Few Full-Text Open Source Papers (since 2018) that Explain or Use 432 Methods
 
 I've separated this into [its own page now](recent.md).
+
+## Some New Stuff I've Been Hearing About
+
+I've separated this into [its own page now](newstuff.md).
+
