@@ -46,7 +46,7 @@ All of these items will be linked through [Class READMEs](https://github.com/THO
 ### On Visualization and R
 
 1. Winston Chang [R-Graphics Cookbook, version 2.0](https://r-graphics.org/)
-2. Kieran Healy [Data Visualization: A practical introduction](https://socviz.co/)
+2. Kieran Healy [Data Visualization: A practical introduction](https://socviz.co/) NEW!! Second Edition March 2026!
 3. Claus O. Wilke [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 4. Rob Kabacoff [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 
